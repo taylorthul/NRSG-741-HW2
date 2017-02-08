@@ -3,9 +3,9 @@ title: "Homework 2 Article Critique"
 author: "Taylor Thul"
 date: "Feb 8, 2017"
 output:
-  html_document: default
-  pdf_document: default
   word_document: default
+  pdf_document: default
+  html_document: default
 ---
 
 ## **Homework 2**
@@ -15,3 +15,4 @@ The article first presents the challenges in EHR data as related to implementati
 The paper seems to be aiming to give a broad overview of the challenges and opportunities of EHR data so each point does not have mountains of supporting evidence.  However, the overall points do seem well supported and the evidence flows logically into their conclusions.  The citations seem to mostly be from reputable journals or governmental documents, supporting the credibility of evidence presented.  Though the article did seem to fulfill its purpose, I believe their attention could’ve been more evenly divided between challenges and opportunities.  The opportunities presented seem shallow compared to the challenges.  There are so many opportunities for using EHR data and it felt the authors did not give a complete picture.  
 The main implications of their findings involve awareness of the complexities working with EHR data before jumping into a project.  The authors specifically discuss understanding privacy requirements, awareness of how data has been entered into the EHR, joining the organizational informational technologist for report generation, and advocating for standardization of electronic documentations.   The only further implication I came away from this paper with is the importance of communication when utilizing EHRs for research.  The nursing researcher needs excellent communication with a variety of hospital departments including information technology, informatics, and the clinicians themselves to understand how data is being entered and stored.  It seems knowing how the EHR is created and utilized will help in variable definition and data analysis.  Overall I thought this was a good paper and I feel I have a better high level view of the complexities of using EHR data.  
 
+The Rmarkdown file can be found at: [https://github.com/taylorthul/NRSG-741-HW2/blob/master/HW2.Rmd] (https://github.com/taylorthul/NRSG-741-HW2/blob/master/HW2.Rmd)
